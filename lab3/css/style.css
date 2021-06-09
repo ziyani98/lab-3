@@ -1,0 +1,24 @@
+h1, h5{
+    color:#00bfff
+}
+img{
+    width: 100%;
+}
+div{
+    padding:5px
+}
+.txtBlog{
+    font-weight: bold;
+    color: dodgerblue;
+}
+.article{
+    font-size:large;
+    color: deepskyblue;
+}
+
+@media (min-width: 992px){
+    .article{
+        font-size: small;
+        color: deepskyblue; 
+    }
+}
